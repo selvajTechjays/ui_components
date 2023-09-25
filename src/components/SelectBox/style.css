@@ -1,0 +1,30 @@
+.field-box {
+  margin-block: 6px;
+}
+
+label {
+  font-size: 18px;
+  font-weight: 500;
+  display: block;
+}
+
+select {
+  font-size: 16px;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  outline: none;
+  cursor: pointer;
+  margin-top: 2px;
+}
+
+/* not working :(
+option { 
+  padding: 50px !important;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+option:hover {
+  background-color: #ccc !important;
+} */
